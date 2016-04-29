@@ -12,7 +12,7 @@ J**In src/main/resources/ .properties file:**
 
 **Search project for <newWebServiceId>**
 
-**In src/main/java/.../file.java:**
+**Typically found being used in src/main/java/<domain>/<project>/.../service/<newWebServiceId>Service.java:**
 
     @Autowired
     private <NewWebServiceId_datatype> <newWebServiceId>;
