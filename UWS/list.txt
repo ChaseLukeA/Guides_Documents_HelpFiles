@@ -1,0 +1,18 @@
+GENERAL:
+  RES - need 3CR
+    add RES-A
+  ARNS - need 1CR
+    add math/ns/gened.ARN-s
+  SRER - need 3CR
+    add PHIL.275
+
+MAJOR - need 12CR
+  
+MINOR - need 4CR
+  add DB
+  
+
+NEED 23 TOTAL CR
+  
+keep COMP2
+rem M.US.HIST
